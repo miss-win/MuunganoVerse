@@ -1,0 +1,2 @@
+-- Database schema for MuunganoVerse
+-- Add your table definitions here.

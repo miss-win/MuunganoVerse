@@ -1,0 +1,2 @@
+-- Seed data for MuunganoVerse
+-- Add your initial data here.
